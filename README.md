@@ -1,4 +1,4 @@
-A Dotty Grid environment
+An Art Gallery environment
 ========================
 
-Designed to support creative maths.
+Experiments with different polygonal art gallery designs and the cameras needed to guard them.
